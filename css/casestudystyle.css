@@ -1,0 +1,156 @@
+
+.navbar {
+    margin-bottom: 30px;
+}
+#navList {
+    margin-right: 200px;
+}
+.nav-image {
+    order: -1; 
+    margin-left: -280px; 
+  }
+  .image-text {
+    font-size: 20px;
+    margin-left: 10px;
+    color: #8b0505; 
+  }
+  
+#brand {
+    margin-left: 470px; 
+  }
+body {
+    background-color: black;
+    color: white; 
+  }
+  
+  
+  body > div {
+    margin-bottom: 40px;
+  }
+  
+  #section1 {
+    margin-top: 30px; 
+  }
+
+  
+  h1, h2, h3, h4, h6 {
+    font-size: 50px;
+    font-family: Arial, sans-serif; 
+    font-weight: normal; 
+  }
+  p {
+    font-size: 20px; 
+  }
+  .custom-img {
+    width: 600px; 
+    height: auto; 
+  }
+  .custom-img2 {
+    width: 600px; 
+    height: auto; 
+  }
+  #section1,
+#section2,
+#section3 {
+  max-width: 800px; 
+  margin:  auto;
+  margin-bottom: 30px; 
+}
+  
+  
+  .jumbotron, .card, #section4, #section5 {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  
+  .jumbotron {
+    background-color: rgba(255, 255, 255, 0.2); 
+    border-radius: 10px;
+  }
+  
+  
+  .card {
+    background-color: rgba(255, 255, 255, 0.2); 
+    border-radius: 10px;
+  }
+  #section4,
+#section5 {
+  margin-bottom: 50px; 
+}
+  #section4 {
+    background-color: rgba(255, 0, 0, 0.2); 
+    border-radius: 10px;
+    padding: 50px;
+    max-width: 1320px;
+    margin: 0 auto;
+    
+
+    
+  }
+  .custom-img,
+.custom-img2 {
+  margin-right: -0px; 
+}
+  
+  #section5 {
+    background-color: rgba(255, 0, 0, 0.2); 
+    margin-top: 30px; 
+    border-radius: 10px;
+    padding: 50px;
+  }
+  
+ 
+  .nav-link {
+    color: rgb(235, 23, 23); 
+  }
+  
+ 
+  #section5 img {
+    border: 2px solid white;
+    border-radius: 5px;
+    margin: 10px;
+    width: 600px;
+  }
+  
+
+  .navbar-brand {
+    color: rgb(205, 10, 10);
+    font-size: 1.5rem;
+  }
+  
+ 
+  h1, h2, .card-title {
+    color: white;
+  }
+  
+  
+  
+ 
+  .lead {
+    color: #f2f2f2; 
+  }
+  footer {
+    background-color: #7c0303;
+    padding: 20px;
+    color: #FFFFFF;
+  }
+
+  footer ul {
+    display: inline-block;
+    vertical-align: top;
+    float: center;
+  }
+
+
+ footer li {
+    display: inline-block;
+    float: center;
+    padding: 0px 20px;
+  
+ }
+ footer p{
+  float: right;
+  padding: 0px 20px;
+ }
+  
