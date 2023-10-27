@@ -1,0 +1,152 @@
+/* Apply a black background to the body */
+.navbar {
+    margin-bottom: 30px;
+}
+#navList {
+    margin-right: 200px;
+}
+.nav-image {
+    order: -1; /* Move the image to the beginning of the container */
+    margin-left: -280px; /* Push the image to the left corner */
+  }
+#brand {
+    margin-left: 550px; /* Adjust this value to control the amount of left margin */
+  }
+body {
+    background-color: black;
+    color: white; /* Set text color to white for better visibility on black background */
+  }
+  
+  /* Apply a red background to the navigation bar */
+  body > div {
+    margin-bottom: 40px; /* Adjust the margin as needed to control the spacing */
+  }
+  
+  #section1 {
+    margin-top: 30px; /* Adjust the margin as needed to create space above the section */
+  }
+
+  
+  h1, h2, h3, h4, h6 {
+    font-size: 50px;
+    font-family: Arial, sans-serif; /* Change the font family as needed */
+    font-weight: normal; /* Adjust the value as needed */
+  }
+  p {
+    font-size: 20px; /* Adjust the font size to your preference */
+  }
+  .custom-img {
+    width: 600px; /* Set the desired width */
+    height: auto; 
+  }
+  .custom-img2 {
+    width: 600px; /* Set the desired width */
+    height: auto; 
+  }
+  #section1,
+#section2,
+#section3 {
+  max-width: 800px; /* Set the maximum width to your preference */
+  margin:  auto;
+  margin-bottom: 30px; /* Center the sections by adding horizontal margins */
+}
+  
+  /* Center the content within the sections */
+  .jumbotron, .card, #section4, #section5 {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Style the jumbotron content */
+  .jumbotron {
+    background-color: rgba(255, 255, 255, 0.2); /* Semi-transparent white background */
+    border-radius: 10px;
+  }
+  
+  /* Style the card */
+  .card {
+    background-color: rgba(255, 255, 255, 0.2); /* Semi-transparent white background */
+    border-radius: 10px;
+  }
+  #section4,
+#section5 {
+  margin-bottom: 50px; /* Adjust the margin as needed to control the vertical spacing */
+}
+  #section4 {
+    background-color: rgba(255, 0, 0, 0.2); /* Semi-transparent red background */
+    border-radius: 10px;
+    padding: 50px;
+    max-width: 1320px;
+    margin: 0 auto;
+     /* Set the maximum width to your preference */
+
+    
+  }
+  .custom-img,
+.custom-img2 {
+  margin-right: -0px; /* Adjust the margin as needed to move the images closer */
+}
+  /* Style the final prototype section */
+  #section5 {
+    background-color: rgba(255, 0, 0, 0.2); /* Semi-transparent red background */
+    margin-top: 30px; 
+    border-radius: 10px;
+    padding: 50px;
+  }
+  
+  /* Style the navigation links */
+  .nav-link {
+    color: rgb(235, 23, 23); /* Set link text color to white */
+  }
+  
+  /* Add a white border to the images in the final prototype section */
+  #section5 img {
+    border: 2px solid white;
+    border-radius: 5px;
+    margin: 10px;
+    width: 600px;
+  }
+  
+  /* Style the navigation brand text */
+  .navbar-brand {
+    color: rgb(205, 10, 10);
+    font-size: 1.5rem;
+  }
+  
+  /* Style the section headings */
+  h1, h2, .card-title {
+    color: white;
+  }
+  
+  /* Set the section headings to a larger size */
+ 
+  
+  
+  /* Style the lead text */
+  .lead {
+    color: #f2f2f2; /* Slightly lighter gray for lead text */
+  }
+  footer {
+    background-color: #7c0303;
+    padding: 20px;
+    color: #FFFFFF;
+  }
+
+  footer ul {
+    display: inline-block;
+    vertical-align: top;
+    float: center;
+  }
+
+
+ footer li {
+    display: inline-block;
+    float: center;
+    padding: 0px 20px;
+  
+ }
+ footer p{
+  float: right;
+  padding: 0px 20px;
+ }
+  
